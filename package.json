@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "cypress": "https://cdn.cypress.io/beta/npm/14.0.0/linux-x64/document-domain-binary-ce19f25e1b0b5cf626535b31894c4adc377bee08/cypress.tgz"
+  }
+}
